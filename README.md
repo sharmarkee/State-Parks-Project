@@ -1,4 +1,5 @@
-# <State Parks Project>
+# STATE PARKS PROJECT
+
 This is a apps that allow them to write reviews about State Parks in MN that they have visited recently. They can also delete and update the reviews that they wrote. The user most be logged in before the can write an reviews, otherwise they will be redirected to the Google email login.
 
 # Screenshot
